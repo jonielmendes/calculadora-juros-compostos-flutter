@@ -2,19 +2,6 @@
 
 Este projeto implementa uma calculadora de juros compostos em Flutter, com duas funcionalidades principais:
 
-## 📱 Funcionalidades
-
-### 1. Calculadora Simples de Juros Compostos
-- **Arquivo principal:** `lib/main.dart` e `lib/calculadora_juros.dart`
-- Calcula rendimentos de um único investimento
-- Exibe evolução mensal detalhada
-- Interface limpa e intuitiva
-
-### 2. Simulador de Comparação de Investimentos (Desafio)
-- **Arquivo principal:** `lib/main_comparacao.dart` e `lib/simulador_comparacao.dart`
-- Compara dois investimentos lado a lado
-- Mostra qual investimento é mais rentável
-- Tabela comparativa mensal
 
 ## 🚀 Como Executar
 
@@ -54,18 +41,6 @@ Para ambas as aplicações, você precisará inserir:
 
 ## 🎯 Desafio para Alunos
 
-### Objetivo
-Criar um simulador que permite comparar dois investimentos diferentes, mostrando:
-- Montante final de cada investimento
-- Rendimento total acumulado
-- Evolução mensal comparativa
-- Indicação do melhor investimento
-
-### Critérios de Avaliação
-- **Funcionalidade (40%):** Cálculos corretos e comparação completa
-- **Interface (30%):** Design intuitivo e navegação fluida
-- **Qualidade do Código (20%):** Organização e boas práticas
-- **Apresentação (10%):** README claro e vídeo explicativo
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -91,15 +66,6 @@ lib/
 test/
 └── widget_test.dart            # Testes básicos
 ```
-
-## 💡 Melhorias Futuras
-
-- [ ] Gráficos de evolução dos investimentos
-- [ ] Exportação de relatórios em PDF
-- [ ] Histórico de simulações
-- [ ] Calculadora de diferentes tipos de juros
-- [ ] Comparação com inflação
-- [ ] Simulação de cenários otimista/pessimista
 
 ## 📖 Referências
 
